@@ -36,14 +36,9 @@ I've actively pursued various certifications to deepen my understanding and prac
 - Mathematics for Machine Learning and Data Science  
 - Improving Deep Neural Networks  
 - Convolutional Neural Networks  
-
-### University of Michigan
-- Python Functions, Files, and Dictionaries  
-- Python Classes and Inheritance  
-- Introduction to Data Science in Python  
-
+ 
 ### KAUST (King Abdullah University of Science and Technology)
-- Introduction to AI
+- Advanced AI
 
 ### IBM
 - Supervised Machine Learning  
