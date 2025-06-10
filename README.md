@@ -1,5 +1,5 @@
 # AbubakerSalih.github.io
-![My image](/assets/img/Bersua_Abubaker 2x2 (1).png)
+
 ## 👋 About Me
 
 Hello! I'm **Abubaker Salih**, an Electrical Engineering student at the Islamic University of Madinah, passionate about Artificial Intelligence and its applications in engineering innovations and problem-solving. My core interest lies in leveraging AI to tackle real-world engineering challenges.
